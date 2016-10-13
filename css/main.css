@@ -1,5 +1,16 @@
-#canv{
-    
-    border: 4px pink dotted;
-    
+#canv {
+    border: 4px gray solid;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-image: url("../Bilder/bricks.png");
+    background-size:  cover;
+}
+
+#ballBild {
+    display: none;
+}
+
+#burrito {
+    display: none;
 }
